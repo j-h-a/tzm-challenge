@@ -87,7 +87,7 @@ abundance.
 --------------------
 
 There are certain causality dilemmas brought up by an NLRBE: Building the
-systems and physical infrastructure is tricky outside of en existing NLRBE;
+systems and physical infrastructure is tricky outside of an existing NLRBE;
 and the global access-oriented abundance mindset that would be ubiquitous in
 an NLRBE needs to be widespread before an NLRBE could be possible.
 
