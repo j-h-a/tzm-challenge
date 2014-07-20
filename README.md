@@ -11,7 +11,7 @@ In summary:
 1. The approach used by TZM is not scientific.
 2. The arguments against pricing fail to recognise its social and democratic
 potential.
-3. It is invalid to dismiss transition issues as "peripheral".
+3. It is invalid to dismiss transition issues as `"peripheral"`.
 
 --------------------------------------------------------------------------------
 
@@ -29,14 +29,18 @@ evidence from experts in various fields about how things might work in an
 NLRBE, and while there is some weight to this, its certitude is
 disproportionate to the risk involved in trying it. In addition to this,
 NLRBE is often justified with circular reasoning and is therefore
-unfalsifiable. For example: There would be no reason for people to behave like
-that in an RBE; The education system in an RBE would ensure that isn’t a
-problem. This adhesion to a single, untestable, unfalsifiable solution with the
-unverified assumption that it is correct is unscientific.
+unfalsifiable. For example:
+`"There would be no reason for people to behave like that in an RBE"`;
+`"The education system in an RBE would ensure that isn’t a problem."`.
 
-Reverse the idea "We need an NLRBE in order to ensure sustainable access
-abundance." to get "Once we have sustainable access abundance, we will be
-living in an NLRBE.". This opens up many possible implementations and paths
+This adhesion to a single, untestable, unfalsifiable solution
+with the unverified assumption that it is correct is unscientific.
+
+Reverse the idea:
+`"We need an NLRBE in order to ensure sustainable access abundance."` to get
+`"Once we have sustainable access abundance, we will be living in an NLRBE."`.
+
+This opens up many possible implementations and paths
 that achieve the goal of sustainable access abundance. In all likelihood these
 solutions would have many similarities with the NLRBE currently put forward by
 TZM, but this approach allows scientific investigation of these ideas. They can
